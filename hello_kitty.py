@@ -1,1 +1,1 @@
-print ("hello kitty\n")
+print ("hello "+kitty+"\n")
